@@ -17,7 +17,7 @@ Read Full Articles: Dive deeper into any news story with a single click. InfoStr
 
 
 
-Some Pictures of InforStream    
+Some Pictures of InfoStream    
 <img width="960" alt="image" src="https://github.com/ritul222/InfoStream/assets/99477771/d4425dbc-cacb-469b-8808-eec0041d0f26">
 
 <img width="960" alt="image" src="https://github.com/ritul222/InfoStream/assets/99477771/4348ce3c-4308-489f-90f6-cf1b8e65eeab">
