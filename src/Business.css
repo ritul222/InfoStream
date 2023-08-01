@@ -1,0 +1,71 @@
+.container {
+  padding-left: 200px;
+  padding-top: 5px;
+  position: relative;
+}
+
+.heading {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+
+.article {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 1rem;
+  margin-bottom: 1rem;
+}
+
+
+.title {
+  font-size: 20px;
+  margin-bottom: 0.5rem;
+}
+
+.image {
+  width: 60%;
+  height: auto;
+  margin-bottom: 0.5rem;
+}
+
+.description {
+  margin-bottom: 0.5rem;
+}
+
+.button {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.button:hover {
+  background-color: #0056b3;
+}
+
+.published {
+  font-style: italic;
+}
+.panel {
+  position: absolute;
+  top: 56px;
+  left: 0;
+  width: 250px;
+  position: fixed;
+  height: 100%;
+  background-color:#30363b;
+  color: white;
+  border: 1px solid #ccc;
+  overflow-y: auto; 
+}
+
+.weather-icon {
+  width: 80px; /* Increase the width */
+  height: 80px; /* Increase the height */
+}
+.logo{
+  width: 40px;
+}
