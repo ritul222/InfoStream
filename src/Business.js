@@ -1,5 +1,5 @@
-// 4HFZEMOS5VO0H7J8 stock
-//https://api.openweathermap.org/data/2.5/weather?lat=23.623204537276756&lon=87.11041169523664&appid=1f723b10aa123a92e8989e6a67eac3b1&city=raniganj&country=India
+
+
 import React, { useEffect, useState } from 'react';
 import axios from 'axios';
 import './Business.css';
